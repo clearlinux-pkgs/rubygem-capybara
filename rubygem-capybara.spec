@@ -4,7 +4,7 @@
 #
 Name     : rubygem-capybara
 Version  : 2.4.4
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/capybara-2.4.4.gem
 Source0  : https://rubygems.org/downloads/capybara-2.4.4.gem
 Summary  : No detailed summary available
